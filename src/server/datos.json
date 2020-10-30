@@ -1,0 +1,10 @@
+{
+  "infoPerfil": [
+    {
+      "id": 1,
+      "foto": "/src/imagenes/perfil.png",
+      "nombre": "Juan Diego Sierr Ayala",
+      "descripcion": "Me encanta reciclar porque supone preservar el medio ambiente y algo tan importante como ayudar a la creación y al mantenimiento de puestos de trabajo. Porque el proceso de reciclaje de residuos necesita de empresas y personas trabajadoras que recojan los distintos materiales y los clasifiquen."
+    }
+  ]
+}

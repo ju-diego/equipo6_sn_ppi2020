@@ -1,0 +1,427 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.form-login {
+  color: #076585 !important ;
+  font-size: 18px !important;
+  border: none !important;
+  border: solid !important;
+  background-color: black !important;
+}
+.form-regis {
+  border: solid #033d49 !important;
+}
+.mainColor {
+  background: -webkit-linear-gradient(to right, white, #076585) !important;
+  background: linear-gradient(to right, #54a7b9, #033d49) !important;
+  color: white;
+}
+.btn-login {
+  width: 70% !important;
+  background-color: #076585 !important;
+  margin-top: 5px !important;
+}
+.btn-login:hover {
+  background-color: white !important;
+}
+.btnRegi {
+  background-color: #033d49 !important;
+  color: white !important;
+}
+
+.btnRegi:hover {
+  color: black !important;
+  background-color: white !important;
+}
+
+.text-decoration {
+  font-size: 10 !important;
+
+  color: white !important;
+  text-decoration: none !important;
+}
+.text-decoration:hover {
+  font-size: 10 !important;
+  font-family: verdana !important;
+  color: #076585 !important;
+  text-decoration: none !important;
+}
+
+.login-container {
+  height: 100vh !important;
+  width: 100% !important;
+}
+.login-card {
+  border-radius: 60px !important;
+
+  box-shadow: 0px 0px 10px 0px black !important;
+  background-color: black !important;
+  color: white !important;
+}
+
+.imgaNav {
+  width: 80px !important;
+}
+.bcolor {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: 250px !important;
+  height: 80px !important;
+  font-size: 25px !important;
+  background-color: white !important;
+}
+.imgCo {
+  width: 400px !important;
+  height: 400px !important;
+}
+.bcolor {
+  background-color: white !important;
+}
+
+.footer {
+  background-color: white !important;
+  height: 5px !important;
+}
+
+.blogin2 {
+  margin: 10px !important;
+  background-color: black !important;
+  width: 100% !important;
+}
+.blogin3 {
+  margin: 10px !important;
+  background-color: black !important;
+  width: 100% !important;
+}
+.text-ca {
+  margin: 10px !important;
+}
+
+.card-inicio {
+  margin-top: 40px !important;
+}
+.card-img {
+  background-color: #2d8c97 !important;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif !important;
+  font-size: 20px !important;
+}
+
+.imgFondo {
+  height: 300px !important;
+  width: 300px !important;
+}
+.imgGo {
+  width: 100px !important;
+}
+.imgFa {
+  width: 100px !important;
+}
+
+.btnNav {
+  margin: 20px !important;
+}
+
+.opciones3 {
+  margin-right: 1000px !important;
+}
+.opciones1 {
+  margin-left: 10px !important;
+}
+
+.btnNav {
+  margin-left: auto !important;
+  margin-right: auto !important;
+
+  background-color: white !important;
+  border: solid black !important;
+}
+
+.btnNavega {
+  width: 30px !important;
+  height: 30px !important;
+}
+
+.btnFo {
+  background-color: white !important;
+  margin: 10px !important;
+}
+.perfil {
+  background-color: #2d8c97 !important;
+}
+.imgLogo {
+  margin: auto !important;
+  display: block !important;
+}
+.cardsPrin {
+  width: 50%;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+#img {
+  width: 50%;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: 250px !important;
+  height: 250px !important;
+  display: block !important;
+  border: solid black !important;
+  background-color: white !important;
+}
+#volver {
+  float: left !important;
+  margin: left !important;
+  width: 70px !important;
+  height: 70px !important;
+}
+
+.card-img-top {
+  height: 400px !important;
+}
+
+#editar {
+  float: right !important;
+  margin: right !important;
+  width: 70px !important;
+  height: 70px !important;
+}
+#venta {
+  float: right !important;
+  margin: right !important;
+  width: 70px !important;
+  height: 70px !important;
+}
+#cerrar {
+  float: right !important;
+  margin: right !important;
+  width: 70px !important;
+  height: 70px !important;
+}
+.titulo {
+  text-align: center !important;
+}
+#btnre {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  float: none !important;
+  text-align: center !important;
+}
+#lista {
+  float: left !important;
+  margin: left !important;
+  width: 100px !important;
+  height: 100px !important;
+}
+#descripcion {
+  background-color: white !important;
+}
+.transparente {
+  background-color: transparent !important;
+}
+
+.btnlogin2 {
+  margin-top: 10px !important;
+  width: 200px !important;
+}
+#volver2 {
+  float: left !important;
+  margin: left !important;
+  width: 200px !important;
+  height: 200px !important;
+}
+#tabla {
+  margin: auto !important;
+  width: 50% !important;
+}
+
+.textIzquierda {
+  text-align: left !important;
+}
+.textDerecha {
+  text-align: right !important;
+}
+.btn-loginIcon {
+  width: 40px !important;
+  height: 40px !important;
+  margin: 10px !important;
+}
+
+.headerR {
+  background-color: rgba(0, 0, 0, 0.2) !important;
+}
+.titulo {
+  color: white !important;
+}
+.navPrincipal {
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.2) !important;
+  font-size: 20px !important;
+}
+.prin :hover {
+  background-color: white !important;
+}
+.ImagenNav {
+  width: 40px !important;
+}
+
+.tarjeta {
+  border-radius: 10px !important;
+  border: solid 10px #033d49 !important;
+  margin-top: 10px !important;
+
+  color: white !important;
+  cursor: default !important;
+  transition: all 700ms ease !important;
+}
+.tarjeta:hover {
+  box-shadow: 0px 0px 10px 4px black !important;
+  transform: translateY(1%) !important;
+}
+.colorTp {
+  background-color: black !important;
+  color: white !important;
+}
+.btnTarjeta {
+  width: 40px !important;
+  height: 40px !important;
+}
+
+.btnAgregar {
+  background-color: rgba(0, 0, 0, 0.3) !important;
+}
+
+.objetoDerecha {
+  position: relative !important;
+  float: right !important;
+  width: 600px !important;
+  height: 177px !important;
+}
+.card-container {
+  margin-top: 10px !important;
+}
+.rowOpciones {
+  margin: 70px !important;
+}
+.ImagenOpc {
+  width: 60px !important;
+  margin: 40px !important;
+}
+
+.btnOpci {
+  background-color: white !important;
+  border: solid #033d49 !important;
+}
+.btnOpci:hover {
+  background-color: #033d49 !important;
+  color: white !important;
+}
+
+.formOpc {
+  margin-bottom: 40px !important;
+}
+.form-text {
+  color: #54a7b9 !important;
+}
+.volver {
+  width: 40px !important;
+}
+.ColorPerfil {
+  background: #0f2027; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #2c5364,
+    #203a43,
+    #0f2027
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #2c5364,
+    #203a43,
+    #0f2027
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  height: 310px;
+
+  border: solid 4px #033d49 !important;
+  margin-bottom: 10px !important;
+}
+.imgPerfil {
+  height: 200px !important;
+}
+.cardPerfil {
+  height: 300px !important;
+  width: 300px !important;
+  box-shadow: 0px 0px 10px 4px white !important;
+
+  border-radius: 50% !important;
+  background: #0f2027 !important;
+  background: -webkit-linear-gradient(to right, #2c5364, #203a43, #0f2027);
+}
+.cardPerfil:hover {
+  transform: translateY(-1%) !important;
+}
+
+.containDescrip {
+  margin-top: 10px !important;
+  background: #0f2027; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #2c5364,
+    #203a43,
+    #0f2027
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #2c5364,
+    #203a43,
+    #0f2027
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.tarjeta11 {
+  background: black !important;
+  color: white !important;
+}
+.tamañoT {
+  height: 300px !important;
+}
+.btnBorrar {
+  background-color: red !important;
+  margin: 10px !important;
+}
+.row-PerfilCol {
+  background-color: rgba(0, 0, 0, 0.2) !important;
+}
+
+.bg {
+  animation: slide 3s ease-in-out infinite alternate;
+  background-image: linear-gradient(-60deg, #033d49 50%, black 50%);
+  bottom: 0;
+  left: -50%;
+  opacity: 0.9;
+  position: fixed;
+  right: -50%;
+  top: 0;
+  z-index: -1;
+}
+
+.bg2 {
+  animation-direction: alternate-reverse;
+  animation-duration: 3s;
+}
+
+.bg3 {
+  animation-duration: 5s;
+}
+
+@keyframes slide {
+  0% {
+    transform: translateX(-25%);
+  }
+  100% {
+    transform: translateX(25%);
+  }
+}
+
+.navbar-toggler {
+  background-color: rgba(0, 0, 0, 0.9) !important;
+}
